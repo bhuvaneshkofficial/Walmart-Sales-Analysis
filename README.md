@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis P1 - Beginner Level
+# Walmart Sales Data Analysis P1 - Beginner Level (SQL)
 
 ## Project Overview
 This project focuses on analyzing sales data from Walmart to extract meaningful insights into customer behavior, sales performance, and branch-wise profitability. The project aims to understand which branches and products perform best, how different customer types behave, and which factors contribute to better sales. The dataset includes information from three branches across different cities.
